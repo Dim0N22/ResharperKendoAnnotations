@@ -3,7 +3,7 @@
     <parameter name="actionName">
       <attribute ctor="M:JetBrains.Annotations.AspMvcActionAttribute.#ctor" />
     </parameter>
-	<parameter name="controllerName">
+    <parameter name="controllerName">
       <attribute ctor="M:JetBrains.Annotations.AspMvcControllerAttribute.#ctor" />
     </parameter>
   </member>
